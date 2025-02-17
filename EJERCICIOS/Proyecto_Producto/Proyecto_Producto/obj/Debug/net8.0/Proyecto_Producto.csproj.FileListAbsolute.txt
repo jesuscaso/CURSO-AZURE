@@ -1,0 +1,56 @@
+C:\Users\claud\source\repos\Proyecto_Producto\Proyecto_Producto\bin\Debug\net8.0\Proyecto_Producto.exe
+C:\Users\claud\source\repos\Proyecto_Producto\Proyecto_Producto\bin\Debug\net8.0\Proyecto_Producto.deps.json
+C:\Users\claud\source\repos\Proyecto_Producto\Proyecto_Producto\bin\Debug\net8.0\Proyecto_Producto.runtimeconfig.json
+C:\Users\claud\source\repos\Proyecto_Producto\Proyecto_Producto\bin\Debug\net8.0\Proyecto_Producto.dll
+C:\Users\claud\source\repos\Proyecto_Producto\Proyecto_Producto\bin\Debug\net8.0\Proyecto_Producto.pdb
+C:\Users\claud\source\repos\Proyecto_Producto\Proyecto_Producto\obj\Debug\net8.0\Proyecto_Producto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\claud\source\repos\Proyecto_Producto\Proyecto_Producto\obj\Debug\net8.0\Proyecto_Producto.AssemblyInfoInputs.cache
+C:\Users\claud\source\repos\Proyecto_Producto\Proyecto_Producto\obj\Debug\net8.0\Proyecto_Producto.AssemblyInfo.cs
+C:\Users\claud\source\repos\Proyecto_Producto\Proyecto_Producto\obj\Debug\net8.0\Proyecto_Producto.csproj.CoreCompileInputs.cache
+C:\Users\claud\source\repos\Proyecto_Producto\Proyecto_Producto\obj\Debug\net8.0\Proyecto_Producto.dll
+C:\Users\claud\source\repos\Proyecto_Producto\Proyecto_Producto\obj\Debug\net8.0\refint\Proyecto_Producto.dll
+C:\Users\claud\source\repos\Proyecto_Producto\Proyecto_Producto\obj\Debug\net8.0\Proyecto_Producto.pdb
+C:\Users\claud\source\repos\Proyecto_Producto\Proyecto_Producto\obj\Debug\net8.0\Proyecto_Producto.genruntimeconfig.cache
+C:\Users\claud\source\repos\Proyecto_Producto\Proyecto_Producto\obj\Debug\net8.0\ref\Proyecto_Producto.dll
+C:\Users\claud\source\repos\Curso V a S Azure Junior\Proyecto_Producto\Proyecto_Producto\obj\Debug\net8.0\Proyecto_Producto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\claud\source\repos\Curso V a S Azure Junior\Proyecto_Producto\Proyecto_Producto\obj\Debug\net8.0\Proyecto_Producto.AssemblyInfoInputs.cache
+C:\Users\claud\source\repos\Curso V a S Azure Junior\Proyecto_Producto\Proyecto_Producto\obj\Debug\net8.0\Proyecto_Producto.AssemblyInfo.cs
+C:\Users\claud\source\repos\Curso V a S Azure Junior\Proyecto_Producto\Proyecto_Producto\obj\Debug\net8.0\Proyecto_Producto.csproj.CoreCompileInputs.cache
+C:\Users\claud\source\repos\Curso V a S Azure Junior\Proyecto_Producto\Proyecto_Producto\obj\Debug\net8.0\Proyecto_Producto.dll
+C:\Users\claud\source\repos\Curso V a S Azure Junior\Proyecto_Producto\Proyecto_Producto\obj\Debug\net8.0\refint\Proyecto_Producto.dll
+C:\Users\claud\source\repos\Curso V a S Azure Junior\Proyecto_Producto\Proyecto_Producto\obj\Debug\net8.0\Proyecto_Producto.pdb
+C:\Users\claud\source\repos\Curso V a S Azure Junior\Proyecto_Producto\Proyecto_Producto\bin\Debug\net8.0\Proyecto_Producto.exe
+C:\Users\claud\source\repos\Curso V a S Azure Junior\Proyecto_Producto\Proyecto_Producto\bin\Debug\net8.0\Proyecto_Producto.deps.json
+C:\Users\claud\source\repos\Curso V a S Azure Junior\Proyecto_Producto\Proyecto_Producto\bin\Debug\net8.0\Proyecto_Producto.runtimeconfig.json
+C:\Users\claud\source\repos\Curso V a S Azure Junior\Proyecto_Producto\Proyecto_Producto\bin\Debug\net8.0\Proyecto_Producto.dll
+C:\Users\claud\source\repos\Curso V a S Azure Junior\Proyecto_Producto\Proyecto_Producto\bin\Debug\net8.0\Proyecto_Producto.pdb
+C:\Users\claud\source\repos\Curso V a S Azure Junior\Proyecto_Producto\Proyecto_Producto\obj\Debug\net8.0\Proyecto_Producto.genruntimeconfig.cache
+C:\Users\claud\source\repos\Curso V a S Azure Junior\Proyecto_Producto\Proyecto_Producto\obj\Debug\net8.0\ref\Proyecto_Producto.dll
+C:\Users\claud\Downloads\Proyecto_Producto\Proyecto_Producto\bin\Debug\net8.0\Proyecto_Producto.exe
+C:\Users\claud\Downloads\Proyecto_Producto\Proyecto_Producto\bin\Debug\net8.0\Proyecto_Producto.deps.json
+C:\Users\claud\Downloads\Proyecto_Producto\Proyecto_Producto\bin\Debug\net8.0\Proyecto_Producto.runtimeconfig.json
+C:\Users\claud\Downloads\Proyecto_Producto\Proyecto_Producto\bin\Debug\net8.0\Proyecto_Producto.dll
+C:\Users\claud\Downloads\Proyecto_Producto\Proyecto_Producto\bin\Debug\net8.0\Proyecto_Producto.pdb
+C:\Users\claud\Downloads\Proyecto_Producto\Proyecto_Producto\obj\Debug\net8.0\Proyecto_Producto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\claud\Downloads\Proyecto_Producto\Proyecto_Producto\obj\Debug\net8.0\Proyecto_Producto.AssemblyInfoInputs.cache
+C:\Users\claud\Downloads\Proyecto_Producto\Proyecto_Producto\obj\Debug\net8.0\Proyecto_Producto.AssemblyInfo.cs
+C:\Users\claud\Downloads\Proyecto_Producto\Proyecto_Producto\obj\Debug\net8.0\Proyecto_Producto.csproj.CoreCompileInputs.cache
+C:\Users\claud\Downloads\Proyecto_Producto\Proyecto_Producto\obj\Debug\net8.0\Proyecto_Producto.dll
+C:\Users\claud\Downloads\Proyecto_Producto\Proyecto_Producto\obj\Debug\net8.0\refint\Proyecto_Producto.dll
+C:\Users\claud\Downloads\Proyecto_Producto\Proyecto_Producto\obj\Debug\net8.0\Proyecto_Producto.pdb
+C:\Users\claud\Downloads\Proyecto_Producto\Proyecto_Producto\obj\Debug\net8.0\Proyecto_Producto.genruntimeconfig.cache
+C:\Users\claud\Downloads\Proyecto_Producto\Proyecto_Producto\obj\Debug\net8.0\ref\Proyecto_Producto.dll
+C:\JESUS\FORMACION\CURSO AZURE\EJERCICIOS\Proyecto_Producto\Proyecto_Producto\bin\Debug\net8.0\Proyecto_Producto.exe
+C:\JESUS\FORMACION\CURSO AZURE\EJERCICIOS\Proyecto_Producto\Proyecto_Producto\bin\Debug\net8.0\Proyecto_Producto.deps.json
+C:\JESUS\FORMACION\CURSO AZURE\EJERCICIOS\Proyecto_Producto\Proyecto_Producto\bin\Debug\net8.0\Proyecto_Producto.runtimeconfig.json
+C:\JESUS\FORMACION\CURSO AZURE\EJERCICIOS\Proyecto_Producto\Proyecto_Producto\bin\Debug\net8.0\Proyecto_Producto.dll
+C:\JESUS\FORMACION\CURSO AZURE\EJERCICIOS\Proyecto_Producto\Proyecto_Producto\bin\Debug\net8.0\Proyecto_Producto.pdb
+C:\JESUS\FORMACION\CURSO AZURE\EJERCICIOS\Proyecto_Producto\Proyecto_Producto\obj\Debug\net8.0\Proyecto_Producto.GeneratedMSBuildEditorConfig.editorconfig
+C:\JESUS\FORMACION\CURSO AZURE\EJERCICIOS\Proyecto_Producto\Proyecto_Producto\obj\Debug\net8.0\Proyecto_Producto.AssemblyInfoInputs.cache
+C:\JESUS\FORMACION\CURSO AZURE\EJERCICIOS\Proyecto_Producto\Proyecto_Producto\obj\Debug\net8.0\Proyecto_Producto.AssemblyInfo.cs
+C:\JESUS\FORMACION\CURSO AZURE\EJERCICIOS\Proyecto_Producto\Proyecto_Producto\obj\Debug\net8.0\Proyecto_Producto.csproj.CoreCompileInputs.cache
+C:\JESUS\FORMACION\CURSO AZURE\EJERCICIOS\Proyecto_Producto\Proyecto_Producto\obj\Debug\net8.0\Proyecto_Producto.dll
+C:\JESUS\FORMACION\CURSO AZURE\EJERCICIOS\Proyecto_Producto\Proyecto_Producto\obj\Debug\net8.0\refint\Proyecto_Producto.dll
+C:\JESUS\FORMACION\CURSO AZURE\EJERCICIOS\Proyecto_Producto\Proyecto_Producto\obj\Debug\net8.0\Proyecto_Producto.pdb
+C:\JESUS\FORMACION\CURSO AZURE\EJERCICIOS\Proyecto_Producto\Proyecto_Producto\obj\Debug\net8.0\Proyecto_Producto.genruntimeconfig.cache
+C:\JESUS\FORMACION\CURSO AZURE\EJERCICIOS\Proyecto_Producto\Proyecto_Producto\obj\Debug\net8.0\ref\Proyecto_Producto.dll

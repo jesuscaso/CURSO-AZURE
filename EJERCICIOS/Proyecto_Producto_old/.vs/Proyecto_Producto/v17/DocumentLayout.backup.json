@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CURSO AZURE\\EJERCICIOS\\Proyecto_Producto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F758A1A0-C0B5-4148-8E10-7EDB4E092BF9}|Producto\\Proyecto_Producto.csproj|c:\\curso azure\\ejercicios\\proyecto_producto\\producto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F758A1A0-C0B5-4148-8E10-7EDB4E092BF9}|Producto\\Proyecto_Producto.csproj|solutionrelative:producto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F758A1A0-C0B5-4148-8E10-7EDB4E092BF9}|Producto\\Proyecto_Producto.csproj|c:\\curso azure\\ejercicios\\proyecto_producto\\producto\\persistencia\\persistir_producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F758A1A0-C0B5-4148-8E10-7EDB4E092BF9}|Producto\\Proyecto_Producto.csproj|solutionrelative:producto\\persistencia\\persistir_producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F758A1A0-C0B5-4148-8E10-7EDB4E092BF9}|Producto\\Proyecto_Producto.csproj|c:\\curso azure\\ejercicios\\proyecto_producto\\producto\\negocios\\negocio_producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F758A1A0-C0B5-4148-8E10-7EDB4E092BF9}|Producto\\Proyecto_Producto.csproj|solutionrelative:producto\\negocios\\negocio_producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Persistir_Producto.cs",
+              "DocumentMoniker": "C:\\CURSO AZURE\\EJERCICIOS\\Proyecto_Producto\\Producto\\Persistencia\\Persistir_Producto.cs",
+              "RelativeDocumentMoniker": "Producto\\Persistencia\\Persistir_Producto.cs",
+              "ToolTip": "C:\\CURSO AZURE\\EJERCICIOS\\Proyecto_Producto\\Producto\\Persistencia\\Persistir_Producto.cs",
+              "RelativeToolTip": "Producto\\Persistencia\\Persistir_Producto.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwB4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T09:17:53.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Negocio_Producto.cs",
+              "DocumentMoniker": "C:\\CURSO AZURE\\EJERCICIOS\\Proyecto_Producto\\Producto\\Negocios\\Negocio_Producto.cs",
+              "RelativeDocumentMoniker": "Producto\\Negocios\\Negocio_Producto.cs",
+              "ToolTip": "C:\\CURSO AZURE\\EJERCICIOS\\Proyecto_Producto\\Producto\\Negocios\\Negocio_Producto.cs",
+              "RelativeToolTip": "Producto\\Negocios\\Negocio_Producto.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T09:17:39.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CURSO AZURE\\EJERCICIOS\\Proyecto_Producto\\Producto\\Program.cs",
+              "RelativeDocumentMoniker": "Producto\\Program.cs",
+              "ToolTip": "C:\\CURSO AZURE\\EJERCICIOS\\Proyecto_Producto\\Producto\\Program.cs",
+              "RelativeToolTip": "Producto\\Program.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAmwDEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T08:29:55.003Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

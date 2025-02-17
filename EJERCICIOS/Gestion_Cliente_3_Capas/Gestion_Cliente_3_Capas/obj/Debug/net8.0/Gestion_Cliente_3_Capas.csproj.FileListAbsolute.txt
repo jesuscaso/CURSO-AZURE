@@ -1,0 +1,14 @@
+C:\CURSO AZURE\EJERCICIOS\Gestion_Cliente_3_Capas\Gestion_Cliente_3_Capas\obj\Debug\net8.0\Gestion_Cliente_3_Capas.GeneratedMSBuildEditorConfig.editorconfig
+C:\CURSO AZURE\EJERCICIOS\Gestion_Cliente_3_Capas\Gestion_Cliente_3_Capas\obj\Debug\net8.0\Gestion_Cliente_3_Capas.AssemblyInfoInputs.cache
+C:\CURSO AZURE\EJERCICIOS\Gestion_Cliente_3_Capas\Gestion_Cliente_3_Capas\obj\Debug\net8.0\Gestion_Cliente_3_Capas.AssemblyInfo.cs
+C:\CURSO AZURE\EJERCICIOS\Gestion_Cliente_3_Capas\Gestion_Cliente_3_Capas\obj\Debug\net8.0\Gestion_Cliente_3_Capas.csproj.CoreCompileInputs.cache
+C:\CURSO AZURE\EJERCICIOS\Gestion_Cliente_3_Capas\Gestion_Cliente_3_Capas\bin\Debug\net8.0\Gestion_Cliente_3_Capas.exe
+C:\CURSO AZURE\EJERCICIOS\Gestion_Cliente_3_Capas\Gestion_Cliente_3_Capas\bin\Debug\net8.0\Gestion_Cliente_3_Capas.deps.json
+C:\CURSO AZURE\EJERCICIOS\Gestion_Cliente_3_Capas\Gestion_Cliente_3_Capas\bin\Debug\net8.0\Gestion_Cliente_3_Capas.runtimeconfig.json
+C:\CURSO AZURE\EJERCICIOS\Gestion_Cliente_3_Capas\Gestion_Cliente_3_Capas\bin\Debug\net8.0\Gestion_Cliente_3_Capas.dll
+C:\CURSO AZURE\EJERCICIOS\Gestion_Cliente_3_Capas\Gestion_Cliente_3_Capas\bin\Debug\net8.0\Gestion_Cliente_3_Capas.pdb
+C:\CURSO AZURE\EJERCICIOS\Gestion_Cliente_3_Capas\Gestion_Cliente_3_Capas\obj\Debug\net8.0\Gestion_Cliente_3_Capas.dll
+C:\CURSO AZURE\EJERCICIOS\Gestion_Cliente_3_Capas\Gestion_Cliente_3_Capas\obj\Debug\net8.0\refint\Gestion_Cliente_3_Capas.dll
+C:\CURSO AZURE\EJERCICIOS\Gestion_Cliente_3_Capas\Gestion_Cliente_3_Capas\obj\Debug\net8.0\Gestion_Cliente_3_Capas.pdb
+C:\CURSO AZURE\EJERCICIOS\Gestion_Cliente_3_Capas\Gestion_Cliente_3_Capas\obj\Debug\net8.0\Gestion_Cliente_3_Capas.genruntimeconfig.cache
+C:\CURSO AZURE\EJERCICIOS\Gestion_Cliente_3_Capas\Gestion_Cliente_3_Capas\obj\Debug\net8.0\ref\Gestion_Cliente_3_Capas.dll
